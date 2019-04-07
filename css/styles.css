@@ -1,0 +1,156 @@
+/* TAG SELECTORS ===================== */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Ledger', serif;
+  font-size: 1rem;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 7rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: grey;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+h4 {
+  margin-bottom: 3.5em;
+}
+
+p {
+  line-height: 2;
+  font-size: 1.5rem;
+}
+
+hr {
+  border: dotted #f4dada 1em;
+  border-width: 1em 0 0 0;
+  height: 0;
+  margin: 5rem auto 7rem auto;
+  width: 20%;
+}
+
+/* CLASS SELECTORS ===================== */
+.for {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #dbe9b7;
+  position: relative;
+  margin: 0;
+  height: 40rem;
+  padding-top: 7rem;
+}
+
+.forest1 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.forest2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.shop {
+  width: 20rem;
+  margin-top: 7.20rem;
+}
+
+.mid-container {
+  padding: 4rem 0;
+  background-color: #b8b2a6;
+}
+
+.intro {
+  position: relative;
+}
+
+.fox {
+  position: absolute;
+  width: 25rem;
+  bottom: 15rem;
+  right: -1.5rem;
+}
+
+.intro {
+  width: 20rem;
+  margin: 30rem auto 8rem auto;
+}
+
+.menu {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.item {
+  width: 75%;
+  margin: 4.5rem auto 2rem auto;
+}
+
+.item-text {
+  text-align: justify;
+}
+
+.item-pics {
+  width: 12rem;
+  background-color: #dbe9b7;
+  border: solid #dbe9b7 3rem;
+  border-radius: 50%;
+}
+
+
+.contact-us {
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+  line-height: 2;
+}
+
+.bot-container {
+  padding: 3rem 0;
+  background-color: #f4dada;
+}
+
+.footer-link {
+  margin: 0 2rem;
+  font-size: 1.5rem;
+  color: grey;
+  text-decoration: none;
+}
+
+.teleport {
+  margin: 3rem 0 5rem 0;
+}
+
+.button {
+  background-image: linear-gradient(180deg,#dbe9b7 0%,#dbe9b7 85%,#bad576 100%);
+  padding: 2rem 3rem 2rem 3rem;
+  border-radius: 3rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: grey;
+}
+
+.button:hover {
+  background-image: linear-gradient(180deg,#f0f0c2 0%,#f0f0c2 85%,#dcdc6f 100%);
+}
+
+.copyright {
+  margin: 3rem auto 0 auto;
+  color:  #b8b2a6;
+  font-size: 0.8rem;
+}
+
+/* ID SELECTORS ===================== */
