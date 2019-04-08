@@ -1,2 +1,2 @@
-# Fox-Cafe
-HTML &amp; CSS - Fictional Fox Cafe
+# Foxy-Cafe
+HTML &amp; CSS - FictionalCafe
